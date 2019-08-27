@@ -1,0 +1,141 @@
+FREEFORMATTER.COM
+HTTPS
+Contact
+
+Formatters
+JSON Formatter
+HTML Formatter
+XML Formatter
+SQL Formatter
+Batch Formatter (new!)
+Validators
+JSON Validator
+HTML Validator
+XML Validator - XSD
+XPath Tester
+Credit Card Number Generator & Validator
+Regular Expression Tester
+Java Regular Expression Tester
+Cron Expression Generator - Quartz
+Encoders & Decoders
+Url Encoder & Decoder
+Base 64 Encoder & Decoder
+QR Code Generator
+Code Minifiers / Beautifier
+JavaScript Beautifier
+CSS Beautifier
+JavaScript Minifier
+CSS Minifier
+Converters
+XSD Generator
+XSLT (XSL Transformer)
+XML to JSON Converter
+JSON to XML Converter
+CSV to XML Converter
+CSV to JSON Converter
+Epoch Timestamp To Date
+Cryptography & Security
+Message Digester (MD5, SHA-256, SHA-512)
+HMAC Generator
+MD5 Generator
+SHA-256 Generator
+SHA-512 Generator
+String Escaper & Utilities
+String Utilities
+HTML Escape
+XML Escape
+Java and .Net Escape
+JavaScript Escape
+JSON Escape
+CSV Escape
+SQL	Escape
+Web Resources
+Lorem Ipsum Generator
+LESS Compiler
+List of MIME types
+HTML Entities
+Url Parser / Query String Splitter
+i18n - Formatting standards & code snippets
+ISO country list - HTML select snippet
+USA state list - HTML select snippet
+Canada province	list - HTML select snippet
+Mexico state list - HTML select snippet
+Time zone list - HTML select snippet
+
+ 
+JavaScript Beautifier
+Formats JavaScript files with the chosen indentation level and your choice of braces. Supports 4 indentation levels: 2 spaces, 3 spaces, 4 spaces and tabs. You can also select the braces style: collapsed, expanded or expanded with new line.
+
+*The maximum size limit for file upload is 2 megabytes. All files bigger than 500k will be formatted to a new window for performance reason and to prevent your browser from being unresponsive.
+
+Option 1: Copy-paste your JavaScript string here
+webpackJsonp([0xb137649f7818],{4219:function(e,t){e.exports={data:{challengeNode:{title:"Headline with the h2 Element",description:["Over the next few lessons, we'll build an HTML5 cat photo web app piece-by-piece.","The <code>h2</code> element you will be adding in this step will add a level two heading to the web page.","This element tells the browser about the structure of your website. <code>h1</code> elements are often used for main headings, while <code>h2</code> elements are generally used for subheadings. There are also <code>h3</code>, <code>h4</code>, <code>h5</code> and <code>h6</code> elements to indicate different levels of subheadings.","<hr>",'Add an <code>h2</code> tag that says "CatPhotoApp" to create a second HTML <code>element</code> below your "Hello World" <code>h1</code> element.'],challengeType:0,videoUrl:"https://scrimba.com/p/pVMPUv/cE8Gqf3",fields:{slug:"/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element",blockName:"Basic HTML and HTML5",tests:[{text:"Create an <code>h2</code> element.",testString:"assert(($(\"h2\").length > 0), 'Create an <code>h2</code> element.');"},{text:"Make sure your <code>h2</code> element has a closing tag.",testString:"assert(code.match(/<\\/h2>/g) && code.match(/<\\/h2>/g).length === code.match(/<h2>/g).length, 'Make sure your <code>h2</code> element has a closing tag.');"},{text:'Your <code>h2</code> element should have the text "CatPhotoApp".',testString:'assert.isTrue((/cat(\\s)?photo(\\s)?app/gi).test($("h2").text()), \'Your <code>h2</code> element should have the text "CatPhotoApp".\');'},{text:'Your <code>h1</code> element should have the text "Hello World".',testString:'assert.isTrue((/hello(\\s)+world/gi).test($("h1").text()), \'Your <code>h1</code> element should have the text "Hello World".\');'}]},required:[],files:{indexhtml:{key:"indexhtml",ext:"html",name:"index",contents:"<h1>Hello World</h1>",head:"",tail:""},indexjs:null,indexjsx:null}}},pathContext:{challengeMeta:{introPath:"",template:null,required:[],nextChallengePath:"/responsive-web-design/basic-html-and-html5/inform-with-the-paragraph-element",id:"bad87fee1348bd9aedf0887a"},slug:"/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element"}}}});
+//# sourceMappingURL=path---responsive-web-design-basic-html-and-html-5-headline-with-the-h-2-element-ab1bc453eac11a48a769.js.map
+Option 2: Or upload your JavaScript file
+  
+Indentation level:
+
+Brace style:
+
+BEAUTIFY JAVASCRIPT  BEAUTIFY JAVASCRIPT IN NEW WINDOW
+
+ 
+Beautified JavaScript:
+webpackJsonp([0xb137649f7818], {
+	4219: function (e, t) {
+		e.exports = {
+			data: {
+				challengeNode: {
+					title: "Headline with the h2 Element",
+					description: ["Over the next few lessons, we'll build an HTML5 cat photo web app piece-by-piece.", "The <code>h2</code> element you will be adding in this step will add a level two heading to the web page.", "This element tells the browser about the structure of your website. <code>h1</code> elements are often used for main headings, while <code>h2</code> elements are generally used for subheadings. There are also <code>h3</code>, <code>h4</code>, <code>h5</code> and <code>h6</code> elements to indicate different levels of subheadings.", "<hr>", 'Add an <code>h2</code> tag that says "CatPhotoApp" to create a second HTML <code>element</code> below your "Hello World" <code>h1</code> element.'],
+					challengeType: 0,
+					videoUrl: "https://scrimba.com/p/pVMPUv/cE8Gqf3",
+					fields: {
+						slug: "/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element",
+						blockName: "Basic HTML and HTML5",
+						tests: [{
+							text: "Create an <code>h2</code> element.",
+							testString: "assert(($(\"h2\").length > 0), 'Create an <code>h2</code> element.');"
+						}, {
+							text: "Make sure your <code>h2</code> element has a closing tag.",
+							testString: "assert(code.match(/<\\/h2>/g) && code.match(/<\\/h2>/g).length === code.match(/<h2>/g).length, 'Make sure your <code>h2</code> element has a closing tag.');"
+						}, {
+							text: 'Your <code>h2</code> element should have the text "CatPhotoApp".',
+							testString: 'assert.isTrue((/cat(\\s)?photo(\\s)?app/gi).test($("h2").text()), \'Your <code>h2</code> element should have the text "CatPhotoApp".\');'
+						}, {
+							text: 'Your <code>h1</code> element should have the text "Hello World".',
+							testString: 'assert.isTrue((/hello(\\s)+world/gi).test($("h1").text()), \'Your <code>h1</code> element should have the text "Hello World".\');'
+						}]
+					},
+					required: [],
+					files: {
+						indexhtml: {
+							key: "indexhtml",
+							ext: "html",
+							name: "index",
+							contents: "<h1>Hello World</h1>",
+							head: "",
+							tail: ""
+						},
+						indexjs: null,
+						indexjsx: null
+					}
+				}
+			},
+			pathContext: {
+				challengeMeta: {
+					introPath: "",
+					template: null,
+					required: [],
+					nextChallengePath: "/responsive-web-design/basic-html-and-html5/inform-with-the-paragraph-element",
+					id: "bad87fee1348bd9aedf0887a"
+				},
+				slug: "/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element"
+			}
+		}
+	}
+});
+//# sourceMappingURL=path---responsive-web-design-basic-html-and-html-5-headline-with-the-h-2-element-ab1bc453eac11a48a769.js.map
+COPY TO CLIPBOARD	 SELECT ALL
+© FreeFormatter.com - FREEFORMATTER is a d/b/a of 10174785 Canada Inc. - Copyright Notice - Privacy Statement - Terms of Use
+
