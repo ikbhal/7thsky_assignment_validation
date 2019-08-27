@@ -1,0 +1,10 @@
+Given html, css, javascript
+
+write asignments
+for each assignment
+  validate answers
+---
+explore testing framework mocha, jasmine
+ ex: freecodecamp, codeacademy
+---
+self check
